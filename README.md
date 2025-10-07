@@ -1,1 +1,1 @@
-# 1.21.9-Template
+# New-Mod-Template for Minecraft 1.21.9
